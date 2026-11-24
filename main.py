@@ -8,8 +8,8 @@ developer to /output/entry.txt. Python 3.13, standard library only.
 import os
 
 FORTUNE = (
-    "Your future self is already reading this code at 2 a.m.; "
-    "write the comment you wish you had found."
+    "Your future self is already debugging this at 2 a.m.; "
+    "leave them a map, not a mystery."
 )
 
 
